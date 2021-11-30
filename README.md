@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Lithika Damnod
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning IALs
+- 🌱 I’m currently studying for IALs
 - 💞️ I’m looking to collaborate on Computer Science Projects
 
 ## ⚡ Technologies
